@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stop Watch</string>
+    <string name="lblbtnlap">Lap</string>
+    <string name="lblPause">PAUSE</string>
+    <string name="lblStart">START</string>
+    <string name="ldlReset">RESET</string>
+    <string name="ldlTimer">0:00:000</string>
+</resources>
